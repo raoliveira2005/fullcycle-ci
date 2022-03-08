@@ -23,4 +23,3 @@ jobs:
         with:
           push: false
           tags: raoliveira2005/fullcycle-ci:latest
-        # comentario
